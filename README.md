@@ -13,7 +13,7 @@ A hybrid multi-heuristic approach is also employed to optimize the search space 
 
 ## Installation
 
-**Python Version:** Ensure you're using Python 3.x.
+**Python Version:** Ensure you're using Python 3.8.10.
 
 **Install Dependencies:**
 
