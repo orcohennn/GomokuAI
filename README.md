@@ -43,3 +43,9 @@ To create analysis graphs, run the following command:
 ```bash
 python plot_creator.py
 ```
+
+This will generate various graphical analyses such as win rates, missed opportunities, blocks, and other performance metrics for the AI agents.
+
+<img src="src/assets/Gameplay.png" alt="Gameplay" width="400" height="300">
+<img src="src/assets/Welcome.png" alt="Welcome" width="400" height="300">
+
