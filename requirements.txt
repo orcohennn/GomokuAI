@@ -1,0 +1,16 @@
+tkinter
+datetime
+json
+heapq
+numpy
+random
+copy
+pickle
+os
+sys
+collections
+pandas
+matplotlib
+seaborn
+Pillow
+jsons_reader

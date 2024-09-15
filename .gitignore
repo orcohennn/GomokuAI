@@ -1,0 +1,53 @@
+# Ignore the idea folder where PyCharm stores project-specific settings
+.idea/
+
+# Ignore Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore virtual environment folders
+venv/
+ENV/
+env/
+.venv/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore logs and coverage reports
+*.log
+*.coverage
+.coverage.*
+.cache/
+nosetests.xml
+coverage.xml
+
+# Ignore environment variable files
+.env
+.env.*
+.venv/
+
+# Ignore SQLite database files
+*.sqlite3
+
+# Ignore files created by package managers like pip and poetry
+*.lock
+poetry.lock
+
+# Ignore compiled C extensions
+*.so
+
+# Ignore distributions
+dist/
+build/
+*.egg-info/
+
+# Ignore PyCharm's workspace settings
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/vcs.xml
